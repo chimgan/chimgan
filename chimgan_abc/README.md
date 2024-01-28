@@ -6,3 +6,5 @@ Enhanced model accuracy using new data sources 📈
 
 Fixed bug causing erratic behavior in predictions 🐞
 
+Merged feature branch with main for improved stability 🚀
+
