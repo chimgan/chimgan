@@ -8,3 +8,5 @@ Fixed bugs that were impacting decision making 🐛
 
 Refactored code for better readability 📚
 
+Enhanced user experience with intuitive UI improvements 🎨
+
