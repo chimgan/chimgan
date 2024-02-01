@@ -16,3 +16,5 @@ Updated documentation for better understanding ℹ️
 
 Resolved conflicts in merging branches 🔀
 
+Deployed latest model to production server 🚚
+
