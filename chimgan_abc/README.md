@@ -20,3 +20,5 @@ Deployed latest model to production server 🚚
 
 Wrote unit tests to ensure code reliability ✅
 
+Reverted changes that caused performance issues ⏪
+
