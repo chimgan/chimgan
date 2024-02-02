@@ -18,3 +18,5 @@ Resolved conflicts in merging branches 🔀
 
 Deployed latest model to production server 🚚
 
+Wrote unit tests to ensure code reliability ✅
+
