@@ -10,3 +10,5 @@ Fixed bug causing quantum fluctuations 🐜
 
 Trained AI model on massive dataset 📚
 
+Integrated cutting-edge deep learning libraries 📈
+
