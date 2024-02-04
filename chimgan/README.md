@@ -16,3 +16,5 @@ Automated testing for accuracy evaluation 🤖
 
 Improved image recognition accuracy 📷
 
+Deployed AI assistant for virtual helpdesk 💬
+
