@@ -12,3 +12,5 @@ Trained AI model on massive dataset 📚
 
 Integrated cutting-edge deep learning libraries 📈
 
+Automated testing for accuracy evaluation 🤖
+
