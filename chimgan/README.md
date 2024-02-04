@@ -14,3 +14,5 @@ Integrated cutting-edge deep learning libraries 📈
 
 Automated testing for accuracy evaluation 🤖
 
+Improved image recognition accuracy 📷
+
