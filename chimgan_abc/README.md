@@ -30,3 +30,5 @@ Documented new APIs for external developers 📚
 
 Eliminated redundant code for cleaner repository 👌
 
+Designed user-friendly interface for user interactions 💻
+
