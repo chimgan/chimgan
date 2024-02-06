@@ -28,3 +28,5 @@ Secured sensitive data with advanced encryption techniques 🔐
 
 Refined machine learning models for higher accuracy 🤖
 
+Enabled seamless scaling with cloud infrastructure ☁️
+
