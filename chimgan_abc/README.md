@@ -32,3 +32,5 @@ Eliminated redundant code for cleaner repository 👌
 
 Designed user-friendly interface for user interactions 💻
 
+Updated dependencies to latest versions 🔄
+
