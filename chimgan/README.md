@@ -18,3 +18,5 @@ Improved image recognition accuracy 📷
 
 Deployed AI assistant for virtual helpdesk 💬
 
+Upgraded to the latest TensorFlow version 🚀
+
