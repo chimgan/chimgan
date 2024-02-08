@@ -30,3 +30,5 @@ Refined machine learning models for higher accuracy 🤖
 
 Enabled seamless scaling with cloud infrastructure ☁️
 
+Streamlined CI/CD pipelines for faster deployments 🛠️
+
