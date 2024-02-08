@@ -38,3 +38,5 @@ Backed up data for disaster recovery 🛡️
 
 Experimented with hyperparameters to optimize model 🤖
 
+Cleaned up temporary files for better organization 🗑️
+
