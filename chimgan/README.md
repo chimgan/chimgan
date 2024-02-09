@@ -36,3 +36,5 @@ Enhanced sentiment analysis accuracy 📉
 
 Automated data augmentation for enhanced training 🔄
 
+Applied transfer learning for faster convergence 🔄
+
