@@ -34,3 +34,5 @@ Implemented natural language processing capabilities 🗣️
 
 Enhanced sentiment analysis accuracy 📉
 
+Automated data augmentation for enhanced training 🔄
+
