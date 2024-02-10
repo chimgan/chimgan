@@ -36,3 +36,5 @@ Automated repetitive tasks to boost productivity 🤖
 
 Optimized database queries for faster retrieval 📊
 
+Designed intuitive dashboards for data visualization 📈
+
