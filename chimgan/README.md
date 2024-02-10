@@ -40,3 +40,5 @@ Applied transfer learning for faster convergence 🔄
 
 Optimized model for edge computing devices 📱
 
+Resolved deadlock in parallel processing 🛑
+
