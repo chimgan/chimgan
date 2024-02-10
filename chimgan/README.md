@@ -42,3 +42,5 @@ Optimized model for edge computing devices 📱
 
 Resolved deadlock in parallel processing 🛑
 
+Quantified model uncertainty for better predictions 📉
+
