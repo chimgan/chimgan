@@ -38,3 +38,5 @@ Optimized database queries for faster retrieval 📊
 
 Designed intuitive dashboards for data visualization 📈
 
+Debugged complex issues with systematic approach 🚨
+
