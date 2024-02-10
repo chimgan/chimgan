@@ -44,3 +44,5 @@ Implemented batch processing for handling large datasets 📦
 
 Profiled code performance for bottlenecks detection ⏱️
 
+Removed unused variables to reduce memory footprint 🧹
+
