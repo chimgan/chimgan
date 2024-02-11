@@ -40,3 +40,5 @@ Designed intuitive dashboards for data visualization 📈
 
 Debugged complex issues with systematic approach 🚨
 
+Reorganized project structure for better organization 📂
+
