@@ -44,3 +44,5 @@ Resolved deadlock in parallel processing 🛑
 
 Quantified model uncertainty for better predictions 📉
 
+Embedded AI algorithm in IoT devices 📡
+
