@@ -48,3 +48,5 @@ Embedded AI algorithm in IoT devices 📡
 
 Resolved memory leak in training process 💾
 
+Integrated model interpretability techniques 🔍
+
