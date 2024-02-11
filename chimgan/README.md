@@ -46,3 +46,5 @@ Quantified model uncertainty for better predictions 📉
 
 Embedded AI algorithm in IoT devices 📡
 
+Resolved memory leak in training process 💾
+
