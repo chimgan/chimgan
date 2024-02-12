@@ -50,3 +50,5 @@ Resolved memory leak in training process 💾
 
 Integrated model interpretability techniques 🔍
 
+Implemented Bayesian optimization for hyperparameter tuning 🧫
+
