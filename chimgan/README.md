@@ -54,3 +54,5 @@ Implemented Bayesian optimization for hyperparameter tuning 🧫
 
 Enhanced robustness against adversarial attacks 🛡️
 
+Optimized prediction intervals for uncertainty estimation 📊
+
