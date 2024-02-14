@@ -50,3 +50,5 @@ Leveraged AI for data-driven insights and predictions 📊
 
 Enhanced error handling for smoother user experience 🛑
 
+Developed custom solutions to meet unique requirements 🛠️
+
