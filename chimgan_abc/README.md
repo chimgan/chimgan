@@ -58,3 +58,5 @@ Tagged release version for tracking deployments 🏷️
 
 Optical character recognition for document analysis 🖋️
 
+Automated model training with scheduled pipelines 🕒
+
