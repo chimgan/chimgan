@@ -64,3 +64,5 @@ Enhanced model fairness through bias detection algorithms 🎯
 
 Optimized model inference speed for real-time applications ⏱️
 
+Automated anomaly detection in sensor data 🕵️
+
