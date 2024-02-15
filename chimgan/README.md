@@ -60,3 +60,5 @@ Streamlined deployment pipeline for seamless integration 🚀
 
 Improved model explainability through feature importance analysis 📊
 
+Enhanced model fairness through bias detection algorithms 🎯
+
