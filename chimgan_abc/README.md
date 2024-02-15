@@ -60,3 +60,5 @@ Optical character recognition for document analysis 🖋️
 
 Automated model training with scheduled pipelines 🕒
 
+Upgraded server infrastructure for better scalability 🚚
+
