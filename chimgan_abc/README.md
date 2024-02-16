@@ -68,3 +68,5 @@ Implemented logic for real-time data processing ⏩
 
 Reorganized project structure for modularity 🏗️
 
+Adopted CI/CD pipeline for automated deployments 🛠️
+
