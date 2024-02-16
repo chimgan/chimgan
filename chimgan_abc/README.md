@@ -66,3 +66,5 @@ Conducted A/B testing for model performance evaluation 📊
 
 Implemented logic for real-time data processing ⏩
 
+Reorganized project structure for modularity 🏗️
+
