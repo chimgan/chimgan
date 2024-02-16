@@ -70,3 +70,5 @@ Implemented attention mechanism for sequence prediction 🧐
 
 Enhanced model accuracy through ensemble learning 🏆
 
+Resolved overfitting issue with dropout regularization 🛡️
+
