@@ -68,3 +68,5 @@ Automated anomaly detection in sensor data 🕵️
 
 Implemented attention mechanism for sequence prediction 🧐
 
+Enhanced model accuracy through ensemble learning 🏆
+
