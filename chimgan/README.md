@@ -66,3 +66,5 @@ Optimized model inference speed for real-time applications ⏱️
 
 Automated anomaly detection in sensor data 🕵️
 
+Implemented attention mechanism for sequence prediction 🧐
+
