@@ -78,3 +78,5 @@ Integrated explainable AI techniques for transparency 🤖
 
 Enhanced model interpretability through visualizations 📊
 
+Automated feature engineering for better predictive performance 🔧
+
