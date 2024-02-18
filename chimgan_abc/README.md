@@ -76,3 +76,5 @@ Designed chatbot interface for user interactions 💬
 
 Fine-tuned model hyperparameters for optimal performance 🎛️
 
+Increased training data size for improved generalization 📊
+
