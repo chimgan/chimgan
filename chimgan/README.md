@@ -80,3 +80,5 @@ Enhanced model interpretability through visualizations 📊
 
 Automated feature engineering for better predictive performance 🔧
 
+Applied active learning for data-efficient model training 📚
+
