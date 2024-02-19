@@ -84,3 +84,5 @@ Applied active learning for data-efficient model training 📚
 
 Enhancing model interpretability through saliency maps 🗺️
 
+Implemented adversarial training for robustness 🛡️
+
