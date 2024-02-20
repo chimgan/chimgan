@@ -88,3 +88,5 @@ Utilized transfer learning to leverage existing models 🔄➡️
 
 Optimized SQL queries for faster database access ⚡
 
+Cleaned up naming conventions for consistency 🆎
+
