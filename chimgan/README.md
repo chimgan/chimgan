@@ -88,3 +88,5 @@ Implemented adversarial training for robustness 🛡️
 
 Optimized neural network pruning for efficiency 🔪
 
+Resolved issue of vanishing gradients in deep learning 📉
+
