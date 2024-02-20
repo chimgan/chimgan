@@ -64,3 +64,5 @@ Validated inputs to prevent potential vulnerabilities 🛡️
 
 Improved algorithm efficiency for optimal performance ⏱️
 
+Applied design patterns for scalable architecture 🏗️
+
