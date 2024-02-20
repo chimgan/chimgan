@@ -86,3 +86,5 @@ Enhancing model interpretability through saliency maps 🗺️
 
 Implemented adversarial training for robustness 🛡️
 
+Optimized neural network pruning for efficiency 🔪
+
