@@ -90,3 +90,5 @@ Optimized SQL queries for faster database access ⚡
 
 Cleaned up naming conventions for consistency 🆎
 
+Utilized Docker for containerized model deployments 🐳
+
