@@ -68,3 +68,5 @@ Applied design patterns for scalable architecture 🏗️
 
 Utilized design principles for intuitive user interfaces 🎨
 
+Built automated tests for reliable codebase 🧪
+
