@@ -92,3 +92,5 @@ Cleaned up naming conventions for consistency 🆎
 
 Utilized Docker for containerized model deployments 🐳
 
+Integrated monitoring system for anomaly detection 🚨
+
