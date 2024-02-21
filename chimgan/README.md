@@ -90,3 +90,5 @@ Optimized neural network pruning for efficiency 🔪
 
 Resolved issue of vanishing gradients in deep learning 📉
 
+Applied transfer learning for domain adaptation 🔄
+
