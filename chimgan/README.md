@@ -94,3 +94,5 @@ Applied transfer learning for domain adaptation 🔄
 
 Optimized model inference time on edge devices ⏱️
 
+Enhanced model resilience to noisy inputs 🎙️
+
