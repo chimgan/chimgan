@@ -92,3 +92,5 @@ Resolved issue of vanishing gradients in deep learning 📉
 
 Applied transfer learning for domain adaptation 🔄
 
+Optimized model inference time on edge devices ⏱️
+
