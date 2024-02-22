@@ -96,3 +96,5 @@ Integrated monitoring system for anomaly detection 🚨
 
 Scripted automation for routine tasks 🤖
 
+Improved visualization for better data understanding 📊
+
