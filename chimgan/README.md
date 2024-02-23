@@ -96,3 +96,5 @@ Optimized model inference time on edge devices ⏱️
 
 Enhanced model resilience to noisy inputs 🎙️
 
+Resolved issue of exploding gradients in deep learning 🚀
+
