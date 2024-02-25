@@ -86,3 +86,5 @@ Resolved merge conflicts with clear communication ⚔️
 
 Enhanced accessibility features for inclusive user experience ♿
 
+Secured backend API endpoints against potential threats 🔒
+
