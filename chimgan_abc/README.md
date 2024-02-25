@@ -106,3 +106,5 @@ Optimized cache utilization for faster access 🚀
 
 Integrated OAuth for secure user authentication 🔐
 
+Enhanced model explainability with LIME visualization 🍋
+
