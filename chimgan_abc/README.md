@@ -112,3 +112,5 @@ Implemented data augmentation for robust model training 🌀
 
 Added error logging for debugging purposes 📝
 
+Upgraded libraries for enhanced functionality 🚀
+
