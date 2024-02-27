@@ -110,3 +110,5 @@ Enhanced model explainability with LIME visualization 🍋
 
 Implemented data augmentation for robust model training 🌀
 
+Added error logging for debugging purposes 📝
+
