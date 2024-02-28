@@ -108,3 +108,5 @@ Automated hyperparameter tuning for model optimization ⚙️
 
 Implemented memory-efficient batch processing techniques 📦
 
+Enhanced model interpretability with SHAP values 📈
+
