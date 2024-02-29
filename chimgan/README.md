@@ -116,3 +116,5 @@ Integrated reinforcement learning for adaptive decision-making 🕹️
 
 Optimized performance using cloud-based GPU resources ☁️
 
+Automated model evaluation with customized metrics 📊
+
