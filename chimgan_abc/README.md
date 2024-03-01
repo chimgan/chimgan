@@ -120,3 +120,5 @@ Standardized code formatting for easier readability 👓
 
 Improved model inference speed with optimizations ⏩
 
+Configured continuous integration setup for testing 🧪
+
