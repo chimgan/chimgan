@@ -118,3 +118,5 @@ Implemented parallel processing for performance boost ⚡
 
 Standardized code formatting for easier readability 👓
 
+Improved model inference speed with optimizations ⏩
+
