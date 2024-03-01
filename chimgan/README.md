@@ -102,3 +102,5 @@ Configured load balancers for optimized resource allocation ⚖️
 
 Optimized network configurations for improved performance 📡
 
+Utilized microservices architecture for flexibility and scalability 🧩
+
