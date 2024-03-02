@@ -106,3 +106,5 @@ Utilized microservices architecture for flexibility and scalability 🧩
 
 Secured communication channels with SSL encryption 🔒
 
+Implemented web sockets for real-time data exchange 🧶
+
