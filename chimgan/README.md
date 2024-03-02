@@ -124,3 +124,5 @@ Resolved issue of NaN values in training data 🚫
 
 Applied adversarial training for improved robustness 🛡️
 
+Optimized CNN architecture for image classification 🖼️
+
