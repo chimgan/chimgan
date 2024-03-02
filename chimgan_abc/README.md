@@ -122,3 +122,5 @@ Improved model inference speed with optimizations ⏩
 
 Configured continuous integration setup for testing 🧪
 
+Documented architecture decision rationale for clarity 📖
+
