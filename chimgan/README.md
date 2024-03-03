@@ -110,3 +110,5 @@ Implemented web sockets for real-time data exchange 🧶
 
 Integrated advanced search algorithms for precise results 🔍
 
+Enabled multi-factor authentication for enhanced security 🔐
+
