@@ -128,3 +128,5 @@ Optimized CNN architecture for image classification 🖼️
 
 Enhanced model accuracy with ensemble learning techniques 🏆
 
+Implemented memory-efficient optimization algorithms 🧠
+
