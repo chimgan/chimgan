@@ -118,3 +118,5 @@ Streamlined deployment workflows with containerization 📦
 
 Enhanced CI/CD pipelines for automated testing and deployment 🔄
 
+Optimized cloud infrastructure for cost-effective scalability ☁️
+
