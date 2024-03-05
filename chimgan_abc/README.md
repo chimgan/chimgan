@@ -134,3 +134,5 @@ Provided detailed changelog for transparency 📋
 
 Integrated tensorboard for model visualization 🦾
 
+Automated dataset labeling for faster annotation 🏷️
+
