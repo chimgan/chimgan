@@ -120,3 +120,5 @@ Enhanced CI/CD pipelines for automated testing and deployment 🔄
 
 Optimized cloud infrastructure for cost-effective scalability ☁️
 
+Integrated monitoring tools for proactive issue detection 🛠️
+
