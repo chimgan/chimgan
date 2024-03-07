@@ -142,3 +142,5 @@ Optimized model inference speed for real-time processing ⏲️
 
 Enhanced model resilience against adversarial attacks 🦹
 
+Resolved issue of overfitting with regularization techniques 🛡️
+
