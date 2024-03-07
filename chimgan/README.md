@@ -144,3 +144,5 @@ Enhanced model resilience against adversarial attacks 🦹
 
 Resolved issue of overfitting with regularization techniques 🛡️
 
+Integrated Explainable AI for transparent decision-making 🧠
+
