@@ -138,3 +138,5 @@ Automated dataset labeling for faster annotation 🏷️
 
 Debugged code for improved stability 🐛
 
+Deployed model as microservices for scalability 🚀
+
