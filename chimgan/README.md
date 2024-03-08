@@ -148,3 +148,5 @@ Integrated Explainable AI for transparent decision-making 🧠
 
 Optimized training process using parallel computing techniques 🚀
 
+Enhanced model generalization with regularization methods 📈
+
