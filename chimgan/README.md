@@ -146,3 +146,5 @@ Resolved issue of overfitting with regularization techniques 🛡️
 
 Integrated Explainable AI for transparent decision-making 🧠
 
+Optimized training process using parallel computing techniques 🚀
+
