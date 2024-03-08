@@ -140,3 +140,5 @@ Debugged code for improved stability 🐛
 
 Deployed model as microservices for scalability 🚀
 
+Utilized GPU acceleration for faster computations 🚗
+
