@@ -150,3 +150,5 @@ Optimized training process using parallel computing techniques 🚀
 
 Enhanced model generalization with regularization methods 📈
 
+Automated hyperparameter search for optimal model performance ⚙️
+
