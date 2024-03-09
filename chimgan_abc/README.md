@@ -142,3 +142,5 @@ Deployed model as microservices for scalability 🚀
 
 Utilized GPU acceleration for faster computations 🚗
 
+Enhanced model robustness with adversarial training 👾
+
