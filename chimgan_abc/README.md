@@ -150,3 +150,5 @@ Improved data pipeline for faster processing 🚰
 
 Revised project roadmap for better planning 🗺️
 
+Deployed model in cloud environment for accessibility ☁️
+
