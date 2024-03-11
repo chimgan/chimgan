@@ -152,3 +152,5 @@ Revised project roadmap for better planning 🗺️
 
 Deployed model in cloud environment for accessibility ☁️
 
+Optimized inference engine for real-time predictions ⏱️
+
