@@ -154,3 +154,5 @@ Deployed model in cloud environment for accessibility ☁️
 
 Optimized inference engine for real-time predictions ⏱️
 
+Reduced model complexity for better performance 🏗️
+
