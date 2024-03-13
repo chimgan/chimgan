@@ -162,3 +162,5 @@ Utilized ensemble methods for model improvement 🎭
 
 Added graceful handling of edge cases in code 🛡️
 
+Deployed web app for interactive model exploration 🌐
+
