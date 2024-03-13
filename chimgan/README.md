@@ -170,3 +170,5 @@ Resolved issue of NaN values in training dataset for cleaner data 🚫
 
 Applied adversarial training to enhance model robustness against attacks 🛡️
 
+Optimized CNN architecture to improve image classification accuracy 🖼️
+
