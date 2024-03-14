@@ -166,3 +166,5 @@ Deployed web app for interactive model exploration 🌐
 
 Tuned model architecture for optimal learning 🏛️
 
+Implemented distributed training for scalability 🚀
+
