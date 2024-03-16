@@ -172,3 +172,5 @@ Applied adversarial training to enhance model robustness against attacks 🛡️
 
 Optimized CNN architecture to improve image classification accuracy 🖼️
 
+Enhanced model accuracy through ensemble learning for hybrid predictions 🏆
+
