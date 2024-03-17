@@ -154,3 +154,5 @@ Fine-tuned caching strategies for optimal content delivery 🚚
 
 Implemented batch processing for efficient data handling 📦
 
+Enabled lazy loading for better resource utilization 🛌
+
