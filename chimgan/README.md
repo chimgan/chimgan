@@ -182,3 +182,5 @@ Enhanced model interpretability by ranking features for better understanding �
 
 Automated data preprocessing to accelerate model training and deployment 🔄
 
+Applied transformative learning to transfer knowledge effectively across domains 🔄
+
