@@ -178,3 +178,5 @@ Optimized indexing for faster database queries 📇
 
 Automated dataset validation for data integrity 🕵️
 
+Enhanced model prediction reliability with uncertainty quantification 🎲
+
