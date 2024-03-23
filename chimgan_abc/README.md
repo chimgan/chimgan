@@ -184,3 +184,5 @@ Achieve singularity 🤖
 
 Optimize neural networks 🧠
 
+Implement self-learning algorithms 📚
+
