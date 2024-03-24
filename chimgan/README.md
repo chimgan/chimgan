@@ -186,3 +186,5 @@ Applied transformative learning to transfer knowledge effectively across domains
 
 Optimized model inference speed for real-time predictions with low latency ⏲️
 
+Enhanced model resilience against adversarial attacks to ensure security 🦹
+
