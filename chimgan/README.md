@@ -176,3 +176,5 @@ Configured web servers for optimized traffic handling 🚦
 
 Utilized content delivery networks for faster content distribution 🌐
 
+Integrated OAuth authentication for seamless user login 🔐
+
