@@ -180,3 +180,5 @@ Integrated OAuth authentication for seamless user login 🔐
 
 Enabled continuous integration for automated testing and deployment 🔄
 
+Deployed hotfix patches to address critical vulnerabilities 🧯
+
