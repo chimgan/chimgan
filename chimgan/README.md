@@ -178,3 +178,5 @@ Utilized content delivery networks for faster content distribution 🌐
 
 Integrated OAuth authentication for seamless user login 🔐
 
+Enabled continuous integration for automated testing and deployment 🔄
+
