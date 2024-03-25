@@ -190,3 +190,5 @@ Enhanced model resilience against adversarial attacks to ensure security 🦹
 
 Resolved issue of overfitting by applying regularization techniques for stability 🛡️
 
+Implement advanced neural network for better predictions 🧠
+
