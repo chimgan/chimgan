@@ -188,3 +188,5 @@ Optimized model inference speed for real-time predictions with low latency ⏲�
 
 Enhanced model resilience against adversarial attacks to ensure security 🦹
 
+Resolved issue of overfitting by applying regularization techniques for stability 🛡️
+
