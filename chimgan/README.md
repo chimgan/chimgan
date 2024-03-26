@@ -188,3 +188,5 @@ Optimizing ML model for image recognition 🖼️
 
 Enabling chatbot with natural language processing 🤖
 
+Enhancing recommendation algorithm using collaborative filtering 🌟
+
