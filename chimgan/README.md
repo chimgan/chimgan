@@ -184,3 +184,5 @@ Deployed hotfix patches to address critical vulnerabilities 🧯
 
 Implementing a neural network for sentiment analysis 🧠
 
+Optimizing ML model for image recognition 🖼️
+
