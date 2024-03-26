@@ -198,3 +198,5 @@ Revolutionize healthcare with AI 💉
 
 Empower decision-making with machine learning 🤝
 
+Augment human capabilities with technology 🚀
+
