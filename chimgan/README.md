@@ -194,3 +194,5 @@ Fine-tuning deep learning model for speech recognition 🗣️
 
 Experimenting with reinforcement learning for game strategy 🎮
 
+Training AI to compose music and explore creative melodies 🎵
+
