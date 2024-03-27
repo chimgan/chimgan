@@ -190,3 +190,5 @@ Enabling chatbot with natural language processing 🤖
 
 Enhancing recommendation algorithm using collaborative filtering 🌟
 
+Fine-tuning deep learning model for speech recognition 🗣️
+
