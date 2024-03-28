@@ -196,3 +196,5 @@ Experimenting with reinforcement learning for game strategy 🎮
 
 Training AI to compose music and explore creative melodies 🎵
 
+Integrating computer vision for object detection 📷
+
