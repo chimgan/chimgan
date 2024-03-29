@@ -210,3 +210,5 @@ Unlock the potential of deep learning 🔓
 
 Automate repetitive tasks with AI 🔄
 
+Harmonize humans and robots 🤝
+
