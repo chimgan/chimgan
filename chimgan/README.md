@@ -198,3 +198,5 @@ Training AI to compose music and explore creative melodies 🎵
 
 Integrating computer vision for object detection 📷
 
+Refactoring codebase for smoother performance ⚙️
+
