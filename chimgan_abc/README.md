@@ -214,3 +214,5 @@ Harmonize humans and robots 🤝
 
 Interpret complex data with AI 📈
 
+Devise AI for social good 🌍
+
