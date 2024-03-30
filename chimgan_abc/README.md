@@ -218,3 +218,5 @@ Devise AI for social good 🌍
 
 Optical Character Recognition at its best 📝
 
+Learn from mistakes and adapt 🔄
+
