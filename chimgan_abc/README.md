@@ -216,3 +216,5 @@ Interpret complex data with AI 📈
 
 Devise AI for social good 🌍
 
+Optical Character Recognition at its best 📝
+
