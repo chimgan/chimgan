@@ -220,3 +220,5 @@ Optical Character Recognition at its best 📝
 
 Learn from mistakes and adapt 🔄
 
+Strive for AI perfection 🔍
+
