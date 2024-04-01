@@ -200,3 +200,5 @@ Integrating computer vision for object detection 📷
 
 Refactoring codebase for smoother performance ⚙️
 
+Applying transfer learning for faster convergence ⏩
+
