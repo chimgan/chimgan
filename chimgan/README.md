@@ -202,3 +202,5 @@ Refactoring codebase for smoother performance ⚙️
 
 Applying transfer learning for faster convergence ⏩
 
+Implementing GANs for image generation 🎨
+
