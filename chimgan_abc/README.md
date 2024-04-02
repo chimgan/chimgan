@@ -226,3 +226,5 @@ Innovate with artificial intelligence 🚀
 
 Spark creativity through machine learning ✨
 
+Encode intelligence into algorithms 💻
+
