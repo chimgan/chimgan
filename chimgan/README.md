@@ -216,3 +216,5 @@ Enhance user experience with intuitive AI features 🎨
 
 Update dependencies to ensure compatibility with latest libraries 🔄
 
+Optical character recognition for extracting text from images 🔍
+
