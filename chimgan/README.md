@@ -216,3 +216,5 @@ Adopting multi-agent systems for complex simulations 🤝
 
 Improving model interpretability with SHAP values 📊
 
+Implementing capsule networks for better feature extraction 🧲
+
