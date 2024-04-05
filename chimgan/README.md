@@ -220,3 +220,5 @@ Implementing capsule networks for better feature extraction 🧲
 
 Optimizing hyperparameters for improved accuracy 🎯
 
+Enhancing gradient boosting algorithm for faster training ⚡
+
