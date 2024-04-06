@@ -228,3 +228,5 @@ Implement transfer learning for faster model training 🏋️
 
 Automate data labeling process with AI-assisted tools 🏷️
 
+Revamp UI design for a more modern look and feel 💻
+
