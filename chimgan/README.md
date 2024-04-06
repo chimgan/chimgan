@@ -230,3 +230,5 @@ Automate data labeling process with AI-assisted tools 🏷️
 
 Revamp UI design for a more modern look and feel 💻
 
+Resolve conflicts in merge operation with feature branch 🤝
+
