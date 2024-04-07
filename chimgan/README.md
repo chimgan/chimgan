@@ -222,3 +222,5 @@ Optimizing hyperparameters for improved accuracy 🎯
 
 Enhancing gradient boosting algorithm for faster training ⚡
 
+Exploring unsupervised learning techniques for anomaly detection 🕵️
+
