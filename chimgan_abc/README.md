@@ -248,3 +248,5 @@ Connect minds across the digital divide 🌐
 
 Evolve algorithms through natural selection 🦁
 
+Revolutionize education with AI tutors 📚
+
