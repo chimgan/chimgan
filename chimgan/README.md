@@ -226,3 +226,5 @@ Exploring unsupervised learning techniques for anomaly detection 🕵️
 
 Upgrading AI infrastructure for scalability 📈
 
+Fine-tuning BERT model for natural language understanding 🗣️
+
