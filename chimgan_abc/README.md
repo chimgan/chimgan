@@ -244,3 +244,5 @@ Navigate through big data with AI compass 🧭
 
 Transform raw data into actionable insights 📊
 
+Connect minds across the digital divide 🌐
+
