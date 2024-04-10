@@ -228,3 +228,5 @@ Upgrading AI infrastructure for scalability 📈
 
 Fine-tuning BERT model for natural language understanding 🗣️
 
+Applying genetic algorithms for hyperparameter optimization 🧬
+
