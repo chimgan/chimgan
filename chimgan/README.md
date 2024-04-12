@@ -238,3 +238,5 @@ Enhancing transformer architecture for language modeling 📚
 
 Leveraging reinforcement learning for real-time decision making 🎲
 
+Implementing variational autoencoders for data synthesis 🤖
+
