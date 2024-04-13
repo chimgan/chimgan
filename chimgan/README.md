@@ -248,3 +248,5 @@ Optimize memory usage for better performance 🧮
 
 Generate synthetic data for augmenting training datasets 📈
 
+Deploy AI model in production environment successfully 🚚
+
