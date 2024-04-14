@@ -264,3 +264,5 @@ Predict customer behavior with AI analytics 📈
 
 Automate workflows with AI assistants 🤖
 
+Encode ethics into AI decision-making 💬
+
