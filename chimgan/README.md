@@ -244,3 +244,5 @@ Applying adversarial attacks to enhance model robustness 🔒
 
 Optimizing model inference speed for real-time applications ⏳
 
+Fine-tuning model for transfer learning on new domains 🔄
+
