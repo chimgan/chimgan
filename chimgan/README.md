@@ -246,3 +246,5 @@ Optimizing model inference speed for real-time applications ⏳
 
 Fine-tuning model for transfer learning on new domains 🔄
 
+Implementing transformer networks for sequence-to-sequence tasks 📝
+
