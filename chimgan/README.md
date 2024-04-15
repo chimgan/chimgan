@@ -252,3 +252,5 @@ Deploy AI model in production environment successfully 🚚
 
 Improve feature extraction process for enhanced model accuracy 📈
 
+Conduct A/B testing to evaluate model performance 🧪
+
