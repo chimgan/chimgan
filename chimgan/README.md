@@ -264,3 +264,5 @@ Develop custom data pipelines for efficient data processing 🔄
 
 Implement auto-encoder for unsupervised feature learning 🤖
 
+Perform cross-validation to assess model generalization 🤝
+
