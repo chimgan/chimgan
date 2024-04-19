@@ -272,3 +272,5 @@ Generate insights from noisy data signals 📡
 
 Analyze sentiment with AI sentiment analysis 🤖
 
+Visualize complex data structures 🌐
+
