@@ -266,3 +266,5 @@ Implement auto-encoder for unsupervised feature learning 🤖
 
 Perform cross-validation to assess model generalization 🤝
 
+Implement clustering algorithms for data segmentation 📊
+
