@@ -270,3 +270,5 @@ Implement clustering algorithms for data segmentation 📊
 
 Enhance model explainability with local interpretability methods 🧐
 
+Analyze model biases and mitigate potential fairness issues ⚖️
+
