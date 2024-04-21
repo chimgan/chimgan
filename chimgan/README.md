@@ -272,3 +272,5 @@ Enhance model explainability with local interpretability methods 🧐
 
 Analyze model biases and mitigate potential fairness issues ⚖️
 
+Improve model accuracy through class imbalance handling 🏋️
+
