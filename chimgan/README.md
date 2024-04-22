@@ -278,3 +278,5 @@ Implement time-series forecasting for predictive analytics ⏰
 
 Deploy model as microservices for seamless integration 🚀
 
+Optimize model inference speed for real-time applications ⏱️
+
