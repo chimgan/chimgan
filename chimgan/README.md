@@ -276,3 +276,5 @@ Improve model accuracy through class imbalance handling 🏋️
 
 Implement time-series forecasting for predictive analytics ⏰
 
+Deploy model as microservices for seamless integration 🚀
+
