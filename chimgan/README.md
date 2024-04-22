@@ -260,3 +260,5 @@ Designing interactive visualizations for model performance monitoring 📊
 
 Implementing graph neural networks for structured data analysis 🌐
 
+Applying federated learning for privacy-preserving model training 🔒
+
