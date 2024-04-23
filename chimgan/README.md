@@ -268,3 +268,5 @@ Building a knowledge graph for semantic understanding 🧠
 
 Optimizing memory usage for large-scale model training 🧠
 
+Applying knowledge distillation for model compression 📚
+
