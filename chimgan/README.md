@@ -264,3 +264,5 @@ Applying federated learning for privacy-preserving model training 🔒
 
 Enhancing model robustness against adversarial attacks 🛡️
 
+Building a knowledge graph for semantic understanding 🧠
+
