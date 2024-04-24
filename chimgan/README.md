@@ -274,3 +274,5 @@ Fine-tuning transformers for efficient language translation 🌍
 
 Integrating reinforcement learning for dynamic pricing strategies 💰
 
+Implementing collaborative filtering for personalized recommendations 🛒
+
