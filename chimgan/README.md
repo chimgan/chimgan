@@ -270,3 +270,5 @@ Optimizing memory usage for large-scale model training 🧠
 
 Applying knowledge distillation for model compression 📚
 
+Fine-tuning transformers for efficient language translation 🌍
+
