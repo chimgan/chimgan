@@ -282,3 +282,5 @@ Optimize model inference speed for real-time applications ⏱️
 
 Implement gradient boosting for ensemble learning 🚀
 
+Update README file with project overview and setup instructions 📄
+
