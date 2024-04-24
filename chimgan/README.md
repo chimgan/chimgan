@@ -284,3 +284,5 @@ Implement gradient boosting for ensemble learning 🚀
 
 Update README file with project overview and setup instructions 📄
 
+Implement t-SNE visualization for high-dimensional data exploration 🎨
+
