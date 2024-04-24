@@ -272,3 +272,5 @@ Applying knowledge distillation for model compression 📚
 
 Fine-tuning transformers for efficient language translation 🌍
 
+Integrating reinforcement learning for dynamic pricing strategies 💰
+
