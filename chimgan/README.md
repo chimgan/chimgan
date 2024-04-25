@@ -288,3 +288,5 @@ Implement t-SNE visualization for high-dimensional data exploration 🎨
 
 Train GAN for generating synthetic images 🎨
 
+Implement Bayesian optimization for hyperparameter tuning 📊
+
