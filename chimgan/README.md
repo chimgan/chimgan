@@ -290,3 +290,5 @@ Train GAN for generating synthetic images 🎨
 
 Implement Bayesian optimization for hyperparameter tuning 📊
 
+Fine-tune pre-trained model on specific domain data 📚
+
