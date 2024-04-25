@@ -294,3 +294,5 @@ Harvest insights from mountains of data ⛰️
 
 Interact fluently with AI-powered assistants 🗣️
 
+Augment reality with AI enhancements 🕶️
+
