@@ -278,3 +278,5 @@ Implementing collaborative filtering for personalized recommendations 🛒
 
 Optimizing model architecture for faster inference speed 🚀
 
+Experimenting with generative adversarial networks for creative art 🎨
+
