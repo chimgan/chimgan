@@ -302,3 +302,5 @@ Model financial markets with AI predictions 💰
 
 Navigate autonomous vehicles through AI maps 🗺️
 
+Translate languages with AI linguistics 🌍
+
