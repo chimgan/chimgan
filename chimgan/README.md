@@ -296,3 +296,5 @@ Integrate custom data augmentation techniques for improved model robustness 🛡
 
 Implement word embeddings for text representation 📝
 
+Develop custom metrics for model evaluation 📏
+
