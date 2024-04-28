@@ -294,3 +294,5 @@ Fine-tune pre-trained model on specific domain data 📚
 
 Integrate custom data augmentation techniques for improved model robustness 🛡️
 
+Implement word embeddings for text representation 📝
+
