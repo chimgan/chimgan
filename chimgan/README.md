@@ -298,3 +298,5 @@ Implement word embeddings for text representation 📝
 
 Develop custom metrics for model evaluation 📏
 
+Implement automated feature engineering for efficient model building 🏗️
+
