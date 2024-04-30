@@ -304,3 +304,5 @@ Refactor codebase for better modularity and extensibility 🧱
 
 Apply dimensionality reduction techniques for feature selection 📉
 
+Enhance model security with adversarial training techniques 🔒
+
