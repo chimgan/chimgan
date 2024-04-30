@@ -300,3 +300,5 @@ Develop custom metrics for model evaluation 📏
 
 Implement automated feature engineering for efficient model building 🏗️
 
+Refactor codebase for better modularity and extensibility 🧱
+
