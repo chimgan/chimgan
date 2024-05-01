@@ -306,3 +306,5 @@ Apply dimensionality reduction techniques for feature selection 📉
 
 Enhance model security with adversarial training techniques 🔒
 
+Optimize model hyperparameters with Bayesian optimization 📈
+
