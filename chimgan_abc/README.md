@@ -320,3 +320,5 @@ Vitalize e-commerce platforms with AI recommendations 📦
 
 Simplify data analysis with AI automation ⚙️
 
+Detect anomalies with AI anomaly detection 🚨
+
