@@ -308,3 +308,5 @@ Enhance model security with adversarial training techniques 🔒
 
 Optimize model hyperparameters with Bayesian optimization 📈
 
+Implement model interpretability through SHAP values 🧠
+
