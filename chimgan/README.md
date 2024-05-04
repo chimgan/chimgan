@@ -316,3 +316,5 @@ Engage in pair programming to enhance collaboration and code quality 👩‍💻
 
 Create unit tests to ensure code correctness and reliability ✅
 
+Perform integration testing to validate system functionality 🧪
+
