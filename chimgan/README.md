@@ -300,3 +300,5 @@ Applying reinforcement learning for adaptive control systems 🤖
 
 Leveraging transfer learning for domain adaptation 🔄
 
+Integrating graph neural networks for social network analysis 🌐
+
