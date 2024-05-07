@@ -302,3 +302,5 @@ Leveraging transfer learning for domain adaptation 🔄
 
 Integrating graph neural networks for social network analysis 🌐
 
+Optimizing model training for efficient GPU utilization 💻
+
