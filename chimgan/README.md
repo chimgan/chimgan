@@ -324,3 +324,5 @@ Utilize transfer learning for domain adaptation tasks 📚
 
 Optimize model training process with distributed computing 🚀
 
+Conduct anomaly detection for identifying outliers in data 🕵️
+
