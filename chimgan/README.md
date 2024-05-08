@@ -304,3 +304,5 @@ Integrating graph neural networks for social network analysis 🌐
 
 Optimizing model training for efficient GPU utilization 💻
 
+Building a recommendation system based on collaborative filtering 📦
+
