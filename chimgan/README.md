@@ -328,3 +328,5 @@ Conduct anomaly detection for identifying outliers in data 🕵️
 
 Implement explainability tools for AI model transparency 📊
 
+Develop custom loss functions for specialized tasks 🎯
+
