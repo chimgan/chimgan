@@ -334,3 +334,5 @@ Revolutionize healthcare diagnostics with AI imaging 🏥
 
 Empower decision-makers with AI insights 🤝
 
+Transform agriculture with precision agriculture 🚜
+
