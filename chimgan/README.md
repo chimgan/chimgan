@@ -332,3 +332,5 @@ Develop custom loss functions for specialized tasks 🎯
 
 Update project dependencies to address security vulnerabilities 🛡️
 
+Implement image segmentation for object detection tasks 🖼️
+
