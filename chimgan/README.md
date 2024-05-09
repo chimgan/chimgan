@@ -306,3 +306,5 @@ Optimizing model training for efficient GPU utilization 💻
 
 Building a recommendation system based on collaborative filtering 📦
 
+Fine-tuning speech recognition model for multi-language support 🗣️
+
