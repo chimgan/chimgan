@@ -334,3 +334,5 @@ Update project dependencies to address security vulnerabilities 🛡️
 
 Implement image segmentation for object detection tasks 🖼️
 
+Enhance model robustness with adversarial examples 🚧
+
