@@ -336,3 +336,5 @@ Implement image segmentation for object detection tasks 🖼️
 
 Enhance model robustness with adversarial examples 🚧
 
+Implement neural architecture search for automated model design 🧠
+
