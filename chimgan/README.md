@@ -344,3 +344,5 @@ Deploy model on edge devices for real-time inference 📱
 
 Train model with semi-supervised learning techniques 📚
 
+Enhance model interpretability with LIME explanations 🧐
+
