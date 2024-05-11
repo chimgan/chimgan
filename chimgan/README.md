@@ -340,3 +340,5 @@ Implement neural architecture search for automated model design 🧠
 
 Optimize data preprocessing pipeline for faster feature extraction ⚙️
 
+Deploy model on edge devices for real-time inference 📱
+
