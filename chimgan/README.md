@@ -342,3 +342,5 @@ Optimize data preprocessing pipeline for faster feature extraction ⚙️
 
 Deploy model on edge devices for real-time inference 📱
 
+Train model with semi-supervised learning techniques 📚
+
