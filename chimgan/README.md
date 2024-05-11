@@ -310,3 +310,5 @@ Fine-tuning speech recognition model for multi-language support 🗣️
 
 Implementing self-supervised learning for data-efficient training 📘
 
+Integrating autoencoders for latent space exploration 🚪
+
