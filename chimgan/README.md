@@ -308,3 +308,5 @@ Building a recommendation system based on collaborative filtering 📦
 
 Fine-tuning speech recognition model for multi-language support 🗣️
 
+Implementing self-supervised learning for data-efficient training 📘
+
