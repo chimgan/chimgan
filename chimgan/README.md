@@ -356,3 +356,5 @@ Optimize model inference with quantization techniques 🧮
 
 Develop custom data augmentation techniques for data diversity 🌈
 
+Integrate model explainability with SHAP values 🧠
+
