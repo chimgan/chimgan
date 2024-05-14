@@ -314,3 +314,5 @@ Integrating autoencoders for latent space exploration 🚪
 
 Exploring self-attention mechanisms for language understanding 🧠
 
+Applying fairness constraints for unbiased model predictions ⚖️
+
