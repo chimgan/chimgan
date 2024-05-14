@@ -316,3 +316,5 @@ Exploring self-attention mechanisms for language understanding 🧠
 
 Applying fairness constraints for unbiased model predictions ⚖️
 
+Optimizing model architecture for memory efficiency 💾
+
