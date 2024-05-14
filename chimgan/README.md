@@ -352,3 +352,5 @@ Explore self-supervised learning for data-efficient training 📚
 
 Implement model distillation for knowledge transfer 🧠
 
+Optimize model inference with quantization techniques 🧮
+
