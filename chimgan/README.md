@@ -360,3 +360,5 @@ Integrate model explainability with SHAP values 🧠
 
 Enhance model fairness with disparate impact analysis ⚖️
 
+Implemented a neural network for image recognition 🖼️
+
