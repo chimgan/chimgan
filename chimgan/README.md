@@ -358,3 +358,5 @@ Develop custom data augmentation techniques for data diversity 🌈
 
 Integrate model explainability with SHAP values 🧠
 
+Enhance model fairness with disparate impact analysis ⚖️
+
