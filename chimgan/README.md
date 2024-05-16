@@ -322,3 +322,5 @@ Refactoring neural network for improved convergence 🔄
 
 Implementing reinforcement learning for robotic control systems 🤖
 
+Building a recommender system using matrix factorization 🤝
+
