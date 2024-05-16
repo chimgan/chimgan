@@ -366,3 +366,5 @@ Optimized the algorithm for faster sorting 🚀
 
 Added new features to enhance user experience ✨
 
+Fixed a bug that was causing crashes 🐞
+
