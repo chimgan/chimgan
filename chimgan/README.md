@@ -368,3 +368,5 @@ Added new features to enhance user experience ✨
 
 Fixed a bug that was causing crashes 🐞
 
+Refactored code for better readability 📚
+
