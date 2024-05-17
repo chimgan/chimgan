@@ -326,3 +326,5 @@ Building a recommender system using matrix factorization 🤝
 
 Enhancing model explainability with feature importance analysis 🔍
 
+Applying transfer learning for image classification tasks 📸
+
