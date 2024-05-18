@@ -376,3 +376,5 @@ Improved error handling for more robustness ⚙️
 
 Updated dependencies to ensure security 🛡️
 
+Designed a new user interface for a modern look 👩‍💻
+
