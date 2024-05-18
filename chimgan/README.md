@@ -372,3 +372,5 @@ Refactored code for better readability 📚
 
 Integrated a machine learning model for predictions 🤖
 
+Improved error handling for more robustness ⚙️
+
