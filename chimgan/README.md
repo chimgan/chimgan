@@ -334,3 +334,5 @@ Integrating dynamic programming for optimal decision making 🎯
 
 Fine-tuning language model for better understanding of context 📖
 
+Experimenting with transformer networks for text generation 📝
+
