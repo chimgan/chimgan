@@ -378,3 +378,5 @@ Updated dependencies to ensure security 🛡️
 
 Designed a new user interface for a modern look 👩‍💻
 
+Adjusted configurations for smoother performance ⚡
+
