@@ -340,3 +340,5 @@ Enhancing query understanding with semantic search capabilities 🧠
 
 Optimizing model hyperparameters for improved accuracy 🎯
 
+Applying reinforcement learning for adaptive portfolio management 💼
+
