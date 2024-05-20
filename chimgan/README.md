@@ -336,3 +336,5 @@ Fine-tuning language model for better understanding of context 📖
 
 Experimenting with transformer networks for text generation 📝
 
+Enhancing query understanding with semantic search capabilities 🧠
+
