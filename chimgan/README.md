@@ -342,3 +342,5 @@ Optimizing model hyperparameters for improved accuracy 🎯
 
 Applying reinforcement learning for adaptive portfolio management 💼
 
+Building a content recommendation system using collaborative filtering 🎬
+
