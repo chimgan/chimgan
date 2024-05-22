@@ -344,3 +344,5 @@ Applying reinforcement learning for adaptive portfolio management 💼
 
 Building a content recommendation system using collaborative filtering 🎬
 
+Implementing generative adversarial networks for synthetic data generation 🎨
+
