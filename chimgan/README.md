@@ -394,3 +394,5 @@ Resolved compatibility issues across platforms 📱💻
 
 Enhanced the application's accessibility features ♿
 
+Updated documentation for better understanding 📝
+
