@@ -398,3 +398,5 @@ Updated documentation for better understanding 📝
 
 Added support for dark mode 🌙
 
+Implemented a caching mechanism for faster loading ⏩
+
