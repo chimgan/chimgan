@@ -396,3 +396,5 @@ Enhanced the application's accessibility features ♿
 
 Updated documentation for better understanding 📝
 
+Added support for dark mode 🌙
+
