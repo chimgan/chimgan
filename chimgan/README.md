@@ -350,3 +350,5 @@ Enhancing model robustness with uncertainty estimation 📏
 
 Applying reinforcement learning for automated trading strategies 💹
 
+Integrating graph neural networks for fraud detection 🕵️
+
