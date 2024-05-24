@@ -348,3 +348,5 @@ Implementing generative adversarial networks for synthetic data generation 🎨
 
 Enhancing model robustness with uncertainty estimation 📏
 
+Applying reinforcement learning for automated trading strategies 💹
+
