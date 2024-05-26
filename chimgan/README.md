@@ -400,3 +400,5 @@ Added support for dark mode 🌙
 
 Implemented a caching mechanism for faster loading ⏩
 
+Fixed memory leaks to improve performance 🧹
+
