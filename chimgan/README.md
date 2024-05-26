@@ -354,3 +354,5 @@ Integrating graph neural networks for fraud detection 🕵️
 
 Optimizing model training for efficient resource utilization 🛠️
 
+Fine-tuning object detection model for real-time applications 📷
+
