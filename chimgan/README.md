@@ -356,3 +356,5 @@ Optimizing model training for efficient resource utilization 🛠️
 
 Fine-tuning object detection model for real-time applications 📷
 
+Implementing transformer-based language model for text understanding 📚
+
