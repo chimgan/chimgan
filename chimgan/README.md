@@ -358,3 +358,5 @@ Fine-tuning object detection model for real-time applications 📷
 
 Implementing transformer-based language model for text understanding 📚
 
+Building a dialog system with natural language generation capabilities 🗣️
+
