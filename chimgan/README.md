@@ -360,3 +360,5 @@ Implementing transformer-based language model for text understanding 📚
 
 Building a dialog system with natural language generation capabilities 🗣️
 
+Implemented self-learning algorithms 🤖
+
