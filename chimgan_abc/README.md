@@ -398,3 +398,5 @@ Optimized database query performance ⚡
 
 Refactored legacy codebase 🏛️
 
+Developed custom visualization tools 📊
+
