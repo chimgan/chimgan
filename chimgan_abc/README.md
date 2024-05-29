@@ -400,3 +400,5 @@ Refactored legacy codebase 🏛️
 
 Developed custom visualization tools 📊
 
+Implemented reinforcement learning approach 🎮
+
