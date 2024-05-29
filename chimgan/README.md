@@ -406,3 +406,5 @@ Optimized network requests for speed 📶
 
 Implemented a responsive design for mobile devices 📱
 
+Added support for multiple languages 🌐
+
