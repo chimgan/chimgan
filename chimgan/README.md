@@ -410,3 +410,5 @@ Added support for multiple languages 🌐
 
 Improved SEO by optimizing metadata 📈
 
+Fixed broken links and updated URLs 🔗
+
