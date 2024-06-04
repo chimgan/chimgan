@@ -414,3 +414,5 @@ Fixed broken links and updated URLs 🔗
 
 Reviewed code for potential vulnerabilities 🕵️‍♂️
 
+Cleaned up unused resources for a lighter build 🧼
+
