@@ -416,3 +416,5 @@ Reviewed code for potential vulnerabilities 🕵️‍♂️
 
 Cleaned up unused resources for a lighter build 🧼
 
+Implemented lazy loading for better resource management ⏳
+
