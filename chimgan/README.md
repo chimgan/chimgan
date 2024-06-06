@@ -422,3 +422,5 @@ Resolved conflicts with feature branches 🌳
 
 Added a feature flag for experimental features 🚩
 
+Optimized image sizes for faster loading 🖼️
+
