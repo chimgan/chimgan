@@ -384,3 +384,5 @@ Developed AI assistants for various tasks 💼
 
 Fine-tuned hyperparameters for accuracy 🎯
 
+Implemented reinforcement learning algorithms 🔄
+
