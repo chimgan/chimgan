@@ -430,3 +430,5 @@ Synchronized codebase with master branch ↪️
 
 Streamlined deployment process 🚀
 
+Integrated natural language processing tool 📃
+
