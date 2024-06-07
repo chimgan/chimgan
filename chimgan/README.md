@@ -426,3 +426,5 @@ Optimized image sizes for faster loading 🖼️
 
 Implemented continuous integration for automated testing 🤖
 
+Refactored API endpoints for better structure 🛠️
+
