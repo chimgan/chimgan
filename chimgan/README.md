@@ -428,3 +428,5 @@ Implemented continuous integration for automated testing 🤖
 
 Refactored API endpoints for better structure 🛠️
 
+Fixed responsive design issues on smaller screens 📏
+
