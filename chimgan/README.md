@@ -390,3 +390,5 @@ Optimized deep learning architectures 🧠
 
 Designed intelligent recommendation systems 🌟
 
+Deployed AI for natural language processing 🗣️
+
