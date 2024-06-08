@@ -440,3 +440,5 @@ Optimized algorithm time complexity ⌛
 
 Refactored code for modularity 🧩
 
+Developed responsive web design layout 🌐
+
