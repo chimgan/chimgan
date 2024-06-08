@@ -396,3 +396,5 @@ Enhanced image recognition algorithms 🖼️
 
 Experimented with generative adversarial networks 🎨
 
+Integrated AI for anomaly detection 🚨
+
