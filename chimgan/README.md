@@ -394,3 +394,5 @@ Deployed AI for natural language processing 🗣️
 
 Enhanced image recognition algorithms 🖼️
 
+Experimented with generative adversarial networks 🎨
+
