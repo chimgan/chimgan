@@ -402,3 +402,5 @@ Contributed to AI ethics and fairness initiatives 🤝
 
 Trained AI to assist in medical diagnosis 🩺
 
+Implemented machine learning algorithms on edge devices 📱
+
