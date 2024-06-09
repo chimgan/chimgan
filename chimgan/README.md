@@ -430,3 +430,5 @@ Refactored API endpoints for better structure 🛠️
 
 Fixed responsive design issues on smaller screens 📏
 
+Added a search functionality for easier navigation 🔍
+
