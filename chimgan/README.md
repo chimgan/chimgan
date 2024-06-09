@@ -400,3 +400,5 @@ Integrated AI for anomaly detection 🚨
 
 Contributed to AI ethics and fairness initiatives 🤝
 
+Trained AI to assist in medical diagnosis 🩺
+
