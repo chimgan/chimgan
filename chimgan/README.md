@@ -398,3 +398,5 @@ Experimented with generative adversarial networks 🎨
 
 Integrated AI for anomaly detection 🚨
 
+Contributed to AI ethics and fairness initiatives 🤝
+
