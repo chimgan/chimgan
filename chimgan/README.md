@@ -434,3 +434,5 @@ Added a search functionality for easier navigation 🔍
 
 Implemented click analytics for tracking user interactions 📊
 
+Updated design colors for a fresh new look 🌈
+
