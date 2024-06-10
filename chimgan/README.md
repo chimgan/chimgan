@@ -404,3 +404,5 @@ Trained AI to assist in medical diagnosis 🩺
 
 Implemented machine learning algorithms on edge devices 📱
 
+Enabled AI to recognize emotions in text and speech 😊🗣️
+
