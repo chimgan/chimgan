@@ -436,3 +436,5 @@ Implemented click analytics for tracking user interactions 📊
 
 Updated design colors for a fresh new look 🌈
 
+Improved error messages for clearer feedback ❌
+
