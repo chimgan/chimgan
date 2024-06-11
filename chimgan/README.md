@@ -406,3 +406,5 @@ Implemented machine learning algorithms on edge devices 📱
 
 Enabled AI to recognize emotions in text and speech 😊🗣️
 
+Developed AI-driven personalized user experiences 🤖🛒
+
