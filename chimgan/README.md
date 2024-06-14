@@ -448,3 +448,5 @@ Implemented infinite scrolling for smoother browsing 🔄
 
 Refactored JavaScript code for cleaner syntax 🧰
 
+Fixed broken images and replaced with placeholders 🖼️❓
+
