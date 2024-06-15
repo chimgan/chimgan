@@ -452,3 +452,5 @@ Fixed broken images and replaced with placeholders 🖼️❓
 
 Integrated GraphQL for more efficient data fetching 🚀
 
+Added automated tests for regression testing 🧪
+
