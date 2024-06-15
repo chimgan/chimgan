@@ -416,3 +416,5 @@ Optimized AI algorithms for energy efficiency ⚡♻️
 
 Deployed AI for autonomous decision-making 🤖🧠
 
+Explored AI techniques for climate change analysis 🌍🔍
+
