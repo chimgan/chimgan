@@ -422,3 +422,5 @@ Fine-tuned AI for stock market predictions 💹💰
 
 Trained AI to play complex strategy games 🎮🤖
 
+Developed AI for enhancing cybersecurity measures 🔒🛡️
+
