@@ -420,3 +420,5 @@ Explored AI techniques for climate change analysis 🌍🔍
 
 Fine-tuned AI for stock market predictions 💹💰
 
+Trained AI to play complex strategy games 🎮🤖
+
