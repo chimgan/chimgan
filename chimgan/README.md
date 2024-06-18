@@ -424,3 +424,5 @@ Trained AI to play complex strategy games 🎮🤖
 
 Developed AI for enhancing cybersecurity measures 🔒🛡️
 
+Implemented AI for smart city solutions 🏙️🤖
+
