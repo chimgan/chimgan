@@ -460,3 +460,5 @@ Refactored code to eliminate code smells 🗑️
 
 Fixed layout issues for consistent design 📐
 
+Resolved CORS errors for better cross-origin resource sharing 🔄
+
