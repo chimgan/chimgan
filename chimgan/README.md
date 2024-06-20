@@ -470,3 +470,5 @@ Fixed styling inconsistencies for a polished look 💅
 
 Improved form validation for user input 📝❗
 
+Implemented a dark theme toggle for personalized experience 🌙🔄
+
