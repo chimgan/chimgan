@@ -474,3 +474,5 @@ Implemented a dark theme toggle for personalized experience 🌙🔄
 
 Added social media sharing buttons for wider reach 🌐📤
 
+Fixed broken links and updated redirects 🔗🔀
+
