@@ -476,3 +476,5 @@ Added social media sharing buttons for wider reach 🌐📤
 
 Fixed broken links and updated redirects 🔗🔀
 
+Implemented a progress bar for better visual feedback 📊⏳
+
