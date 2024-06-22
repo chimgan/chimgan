@@ -438,3 +438,5 @@ Designed AI to aid in disaster response efforts 🌪️🚑
 
 Implemented AI for early disease detection 🩺⚕️
 
+Refactored AI processes for interpretability 🤖🔍
+
