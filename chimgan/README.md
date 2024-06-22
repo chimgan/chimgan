@@ -486,3 +486,5 @@ Fixed compatibility issues with outdated browsers 🚫🔄🌐
 
 Integrated push notifications for real-time updates 🕒
 
+Added a loading spinner for better user experience 🔄💫
+
