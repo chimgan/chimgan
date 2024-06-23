@@ -490,3 +490,5 @@ Added a loading spinner for better user experience 🔄💫
 
 Implemented lazy loading images for faster page loads 🖼️⏳
 
+Refactored HTML structure for improved semantics 🧱
+
