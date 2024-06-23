@@ -440,3 +440,5 @@ Implemented AI for early disease detection 🩺⚕️
 
 Refactored AI processes for interpretability 🤖🔍
 
+Integrated AI for optimizing supply chain management 🚚📦
+
