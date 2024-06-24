@@ -494,3 +494,5 @@ Refactored HTML structure for improved semantics 🧱
 
 Fixed broken forms for seamless user interaction 📝🛠️
 
+Optimized animations for smoother transitions 🔄💨
+
