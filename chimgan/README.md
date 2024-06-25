@@ -496,3 +496,5 @@ Fixed broken forms for seamless user interaction 📝🛠️
 
 Optimized animations for smoother transitions 🔄💨
 
+Implemented a dark mode switch for comfortable viewing 🌙🔀
+
