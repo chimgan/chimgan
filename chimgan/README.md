@@ -448,3 +448,5 @@ Enabled AI to assist in wildlife conservation efforts 🦒🌿
 
 Trained AI to analyze sentiment in social media posts 😃📱
 
+Developed AI-driven virtual assistants for daily tasks 🔊🤖
+
