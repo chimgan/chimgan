@@ -500,3 +500,5 @@ Implemented a dark mode switch for comfortable viewing 🌙🔀
 
 Added tooltips for helpful hints ℹ️
 
+Fixed broken API endpoints for uninterrupted service 🚫🛠️
+
