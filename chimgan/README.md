@@ -498,3 +498,5 @@ Optimized animations for smoother transitions 🔄💨
 
 Implemented a dark mode switch for comfortable viewing 🌙🔀
 
+Added tooltips for helpful hints ℹ️
+
