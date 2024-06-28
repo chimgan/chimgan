@@ -510,3 +510,5 @@ Fixed broken links and updated redirects for smoother navigation 🔗🔄
 
 Optimized image loading for quicker page rendering 🖼️⏩
 
+Implemented a responsive layout for various screen sizes 📏📱💻
+
