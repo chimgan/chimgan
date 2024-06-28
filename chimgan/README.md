@@ -508,3 +508,5 @@ Refactored JavaScript functions for better performance 🚀🧩
 
 Fixed broken links and updated redirects for smoother navigation 🔗🔄
 
+Optimized image loading for quicker page rendering 🖼️⏩
+
