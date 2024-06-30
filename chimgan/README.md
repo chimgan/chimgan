@@ -458,3 +458,5 @@ Enabled AI to predict consumer trends accurately 📈🛒
 
 Designed AI to support mental health monitoring 🧠🤯
 
+Deployed AI for enhancing online learning experiences 📚🤖
+
