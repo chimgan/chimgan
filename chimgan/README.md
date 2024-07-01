@@ -524,3 +524,5 @@ Refactored code to improve maintainability 🏗️
 
 Fixed compatibility bugs for smoother cross-platform usage 🐛🔄
 
+Integrated OAuth for secure authentication 🔒🗝️
+
