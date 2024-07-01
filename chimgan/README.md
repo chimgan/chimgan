@@ -526,3 +526,5 @@ Fixed compatibility bugs for smoother cross-platform usage 🐛🔄
 
 Integrated OAuth for secure authentication 🔒🗝️
 
+Added custom error pages for a better user experience ❌📄
+
