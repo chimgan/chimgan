@@ -542,3 +542,5 @@ Resolved login issues for seamless user access 🔑
 
 Implemented lazy loading videos for speedier playback 🎥⏳
 
+Added a dark mode toggle for personalized preferences 🌙🔀
+
