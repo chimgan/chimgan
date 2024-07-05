@@ -540,3 +540,5 @@ Updated design assets for a refreshed look 🎨✨
 
 Resolved login issues for seamless user access 🔑
 
+Implemented lazy loading videos for speedier playback 🎥⏳
+
