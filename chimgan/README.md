@@ -464,3 +464,5 @@ Experimented with AI for wildlife population analysis 🐅📊
 
 Enhanced AI for better weather forecasting accuracy 🌤️🌍
 
+Developed AI for personalized fitness and wellness plans 🏋️‍♂️🤖
+
