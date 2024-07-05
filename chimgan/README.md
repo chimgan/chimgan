@@ -466,3 +466,5 @@ Enhanced AI for better weather forecasting accuracy 🌤️🌍
 
 Developed AI for personalized fitness and wellness plans 🏋️‍♂️🤖
 
+Implemented AI for enhancing personalized shopping experiences 🛍️🤖
+
