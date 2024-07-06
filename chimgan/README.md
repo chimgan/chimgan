@@ -544,3 +544,5 @@ Implemented lazy loading videos for speedier playback 🎥⏳
 
 Added a dark mode toggle for personalized preferences 🌙🔀
 
+Fixed broken image paths for proper display 🖼️🚫🔗
+
