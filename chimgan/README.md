@@ -470,3 +470,5 @@ Implemented AI for enhancing personalized shopping experiences 🛍️🤖
 
 Optimized AI models for accurate facial recognition 🧑‍💻👩‍💼
 
+Enabled AI to assist in reducing food waste 🥦🗑️
+
