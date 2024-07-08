@@ -540,3 +540,5 @@ Building AI models with elegance 💫
 
 Solving complex problems seamlessly 🧩
 
+Integrating AI ethics into the system 🤝
+
