@@ -480,3 +480,5 @@ Trained AI to provide personalized travel recommendations 🌍🚗
 
 Developed AI for emotion recognition in customer service 😃📞
 
+Implemented AI solutions for optimizing urban transportation 🚇🤖
+
