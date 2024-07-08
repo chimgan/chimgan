@@ -478,3 +478,5 @@ Integrated AI for better disaster recovery planning 🌪️💼
 
 Trained AI to provide personalized travel recommendations 🌍🚗
 
+Developed AI for emotion recognition in customer service 😃📞
+
