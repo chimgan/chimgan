@@ -558,3 +558,5 @@ Added support for voice recognition 🗣️
 
 Fine-tuned sentiment analysis for improved accuracy 😊
 
+Integrated image recognition feature 📷
+
