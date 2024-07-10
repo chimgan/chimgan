@@ -486,3 +486,5 @@ Enabled AI to analyze and predict shopping trends accurately 📊👜
 
 Designed AI to generate personalized workout routines 🏋️‍♀️🤖
 
+Deployed AI for real-time language translation services 🌍🗣️
+
