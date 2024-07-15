@@ -502,3 +502,5 @@ Trained AI to analyze and predict consumer behavior accurately 📊🕵️‍♂
 
 Developed AI solutions for optimizing digital advertising strategies 💻📈
 
+Implemented AI for enhancing customer service experiences 📞🤝
+
