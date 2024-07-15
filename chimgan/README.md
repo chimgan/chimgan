@@ -500,3 +500,5 @@ Integrated AI for improving traffic management systems 🚦🤖
 
 Trained AI to analyze and predict consumer behavior accurately 📊🕵️‍♂️
 
+Developed AI solutions for optimizing digital advertising strategies 💻📈
+
