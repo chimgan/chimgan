@@ -504,3 +504,5 @@ Developed AI solutions for optimizing digital advertising strategies 💻📈
 
 Implemented AI for enhancing customer service experiences 📞🤝
 
+Designed AI for improving virtual event experiences 🎉🤖
+
