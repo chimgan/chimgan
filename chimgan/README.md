@@ -508,3 +508,5 @@ Designed AI for improving virtual event experiences 🎉🤖
 
 Deployed AI for optimizing personalized online learning platforms 📚💻
 
+Explored AI techniques for predictive maintenance in industries 🛠️🤖
+
