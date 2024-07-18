@@ -518,3 +518,5 @@ Enabled AI to detect and prevent cyber threats proactively 🛡️🤖
 
 Refactored AI models for ensuring data privacy and security 🔒🤖
 
+Integrated AI for optimizing indoor air quality monitoring 🏠🤖
+
