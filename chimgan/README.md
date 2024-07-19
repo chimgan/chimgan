@@ -522,3 +522,5 @@ Integrated AI for optimizing indoor air quality monitoring 🏠🤖
 
 Trained AI to assist in improving workplace diversity and inclusion 🌈🤖
 
+Developed AI for enhancing smart home automation systems 🏡🤖
+
