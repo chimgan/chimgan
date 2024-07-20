@@ -526,3 +526,5 @@ Developed AI for enhancing smart home automation systems 🏡🤖
 
 Optimized AI algorithms for analyzing and predicting user behavior 📊🤖
 
+Enabled AI to detect and mitigate climate change risks 🌍🌡️
+
