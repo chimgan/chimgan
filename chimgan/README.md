@@ -532,3 +532,5 @@ Designed AI to support mental health awareness and intervention 🧠🚨
 
 Deployed AI for real-time personalized news recommendations 📰📊
 
+Experimented with AI for enhancing personalized e-commerce experiences 🛍️🤖
+
