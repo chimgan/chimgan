@@ -530,3 +530,5 @@ Enabled AI to detect and mitigate climate change risks 🌍🌡️
 
 Designed AI to support mental health awareness and intervention 🧠🚨
 
+Deployed AI for real-time personalized news recommendations 📰📊
+
