@@ -534,3 +534,5 @@ Deployed AI for real-time personalized news recommendations 📰📊
 
 Experimented with AI for enhancing personalized e-commerce experiences 🛍️🤖
 
+Enhanced AI for accurate wildlife population monitoring 🦒📈
+
