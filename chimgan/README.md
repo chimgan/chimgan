@@ -538,3 +538,5 @@ Enhanced AI for accurate wildlife population monitoring 🦒📈
 
 Implemented AI solutions for optimizing energy consumption in buildings 🏢⚡
 
+Explored AI techniques for predicting and preventing natural disasters 🌪️🌍
+
