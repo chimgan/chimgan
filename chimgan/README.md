@@ -536,3 +536,5 @@ Experimented with AI for enhancing personalized e-commerce experiences 🛍️�
 
 Enhanced AI for accurate wildlife population monitoring 🦒📈
 
+Implemented AI solutions for optimizing energy consumption in buildings 🏢⚡
+
