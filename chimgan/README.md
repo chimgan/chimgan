@@ -540,3 +540,5 @@ Implemented AI solutions for optimizing energy consumption in buildings 🏢⚡
 
 Explored AI techniques for predicting and preventing natural disasters 🌪️🌍
 
+Developed AI to promote sustainable and eco-friendly living 🌱🌍
+
