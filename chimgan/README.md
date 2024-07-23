@@ -542,3 +542,5 @@ Explored AI techniques for predicting and preventing natural disasters 🌪️�
 
 Developed AI to promote sustainable and eco-friendly living 🌱🌍
 
+Refined AI models for efficient and personalized healthcare delivery 🩺📈
+
