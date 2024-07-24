@@ -548,3 +548,5 @@ Enabled AI to analyze and predict changes in global market trends 🌍📊
 
 Trained AI to assist in early detection of infectious diseases 🦠🧪
 
+Integrated AI for optimizing energy usage in transportation systems 🚗⚡
+
