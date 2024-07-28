@@ -612,3 +612,5 @@ Safeguarding data privacy with AI 🛡️
 
 Fostering AI creativity and originality 🎨
 
+Adhering to AI ethics and standards 📜
+
