@@ -620,3 +620,5 @@ Advancing AI for the betterment of society 🌟
 
 Implementing AI for sustainable development 🌿
 
+Augmenting human capabilities with AI 🦾
+
