@@ -624,3 +624,5 @@ Augmenting human capabilities with AI 🦾
 
 Empowering AI for social impact 🌱
 
+Building AI systems for the greater good 🌎
+
