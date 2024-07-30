@@ -622,3 +622,5 @@ Implementing AI for sustainable development 🌿
 
 Augmenting human capabilities with AI 🦾
 
+Empowering AI for social impact 🌱
+
