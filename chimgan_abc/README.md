@@ -678,3 +678,5 @@ Ensuring transparency and fairness in AI decision-making 🧠
 
 Securing AI systems against potential vulnerabilities 🛡️
 
+Harnessing the power of AI for social impact and sustainability 🌿
+
