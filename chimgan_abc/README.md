@@ -680,3 +680,5 @@ Securing AI systems against potential vulnerabilities 🛡️
 
 Harnessing the power of AI for social impact and sustainability 🌿
 
+Championing AI diversity and inclusivity in technology 🌐
+
