@@ -684,3 +684,5 @@ Championing AI diversity and inclusivity in technology 🌐
 
 Empowering AI to tackle global challenges with creativity 🚀
 
+Deploying AI solutions that adhere to ethical principles 📜
+
