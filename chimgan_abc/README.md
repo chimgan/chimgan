@@ -748,3 +748,5 @@ Optimize model hyperparameters using grid search 🛠️⚙️
 
 Apply transfer learning for faster model convergence 🔄
 
+Update README with project overview ℹ️
+
