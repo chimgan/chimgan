@@ -770,3 +770,5 @@ Enhanced AI's ability to assist in environmental conservation 🦜🌳
 
 Refactored code to promote equal opportunities for all 🌐🔐
 
+Deployed model to predict and prevent natural disasters 🌀🔮
+
