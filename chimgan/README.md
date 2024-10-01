@@ -774,3 +774,5 @@ Deployed model to predict and prevent natural disasters 🌀🔮
 
 Fixed bug causing social inequality in decision-making processes 🐞⚖️
 
+Implemented feature to increase awareness about mental health 🧠💡
+
