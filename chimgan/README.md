@@ -772,3 +772,5 @@ Refactored code to promote equal opportunities for all 🌐🔐
 
 Deployed model to predict and prevent natural disasters 🌀🔮
 
+Fixed bug causing social inequality in decision-making processes 🐞⚖️
+
