@@ -834,3 +834,5 @@ Fine-tuned the model hyperparameters 🎛️
 
 Enhanced image recognition accuracy 📸
 
+Applied transfer learning to leverage existing knowledge 🔄
+
