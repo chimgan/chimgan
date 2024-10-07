@@ -816,3 +816,5 @@ Streamline model deployment process with continuous integration 🚀🔄
 
 Enhance documentation with examples and usage instructions 📝💡
 
+Apply privacy-preserving techniques to sensitive data handling 🔒🔑
+
