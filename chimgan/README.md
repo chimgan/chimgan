@@ -848,3 +848,5 @@ Developed a personalized user experience 🙋‍♂️
 
 Analyzed social media trends using AI 📈
 
+Designed a neural network architecture from scratch 🏗️
+
