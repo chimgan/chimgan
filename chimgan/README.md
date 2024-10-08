@@ -850,3 +850,5 @@ Analyzed social media trends using AI 📈
 
 Designed a neural network architecture from scratch 🏗️
 
+Trained the model on a large-scale dataset 💪
+
