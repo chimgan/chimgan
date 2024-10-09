@@ -828,3 +828,5 @@ Fix broken links in documentation files 🔗📝
 
 Automate data preprocessing tasks with scripting 🤖📂
 
+Update API endpoints for consistency and clarity 🚪📝
+
