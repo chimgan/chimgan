@@ -856,3 +856,5 @@ Deployed the AI model on a cloud platform ☁️
 
 Integrated chatbot functionality in the application 💬
 
+Utilized reinforcement learning for decision-making 🎯
+
