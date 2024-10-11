@@ -858,3 +858,5 @@ Integrated chatbot functionality in the application 💬
 
 Utilized reinforcement learning for decision-making 🎯
 
+Conducted A/B testing for model evaluation 🧪
+
