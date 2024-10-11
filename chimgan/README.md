@@ -802,3 +802,5 @@ Enhanced AI's understanding of social justice issues 🌍⚖️
 
 Refactored code to promote ethical AI practices 🤖🔒
 
+Deployed model to predict and prevent cybersecurity threats 🛡️💻
+
