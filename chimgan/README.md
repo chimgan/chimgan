@@ -854,3 +854,5 @@ Trained the model on a large-scale dataset 💪
 
 Deployed the AI model on a cloud platform ☁️
 
+Integrated chatbot functionality in the application 💬
+
