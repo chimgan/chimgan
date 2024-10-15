@@ -870,3 +870,5 @@ Trained the model to detect anomalies in data 🚨
 
 Enhanced model interpretability using SHAP values 📊
 
+Used genetic algorithms for hyperparameter optimization 🧬
+
