@@ -866,3 +866,5 @@ Implemented voice recognition feature 🗣️
 
 Built a recommendation engine based on collaborative filtering 🤝
 
+Trained the model to detect anomalies in data 🚨
+
