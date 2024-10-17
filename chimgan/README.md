@@ -820,3 +820,5 @@ Refactored code for fair distribution of resources 🔄🌍
 
 Deployed model to predict and prevent public health crises 💉🚫
 
+Fixed bug causing social biases in decision-making algorithms 🐞⚙️
+
