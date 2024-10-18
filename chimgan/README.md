@@ -876,3 +876,5 @@ Applied AI for predictive maintenance in manufacturing 🏭
 
 Developed a facial recognition system for security 🕵️
 
+Validated model accuracy through cross-validation 🎯
+
