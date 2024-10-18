@@ -874,3 +874,5 @@ Used genetic algorithms for hyperparameter optimization 🧬
 
 Applied AI for predictive maintenance in manufacturing 🏭
 
+Developed a facial recognition system for security 🕵️
+
