@@ -872,3 +872,5 @@ Enhanced model interpretability using SHAP values 📊
 
 Used genetic algorithms for hyperparameter optimization 🧬
 
+Applied AI for predictive maintenance in manufacturing 🏭
+
