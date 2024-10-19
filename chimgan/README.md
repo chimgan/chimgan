@@ -878,3 +878,5 @@ Developed a facial recognition system for security 🕵️
 
 Validated model accuracy through cross-validation 🎯
 
+Leveraged GANs for image generation 🌅
+
