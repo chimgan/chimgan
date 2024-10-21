@@ -890,3 +890,5 @@ Trained a model to generate music 🎵
 
 Utilized AI for personalized healthcare recommendations 🏥
 
+Implemented a reinforcement learning algorithm for game playing 🎮
+
