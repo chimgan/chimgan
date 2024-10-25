@@ -850,3 +850,5 @@ Enhanced AI's ability to address environmental justice concerns 🌳⚖️
 
 Refactored code to improve access to education for all 📚🔓
 
+Deployed model to predict and prevent food insecurity 🍽️🚫
+
