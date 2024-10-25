@@ -896,3 +896,5 @@ Engineered a robust anomaly detection system 🛡️
 
 Optimized model performance through gradient boosting 🚀
 
+Developed a self-driving car AI model 🚗
+
