@@ -900,3 +900,5 @@ Developed a self-driving car AI model 🚗
 
 Trained an AI to compose poetry 📝
 
+Used recurrent neural networks for time series analysis ⌛
+
