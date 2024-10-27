@@ -854,3 +854,5 @@ Deployed model to predict and prevent food insecurity 🍽️🚫
 
 Fixed bug causing misinformation in public health interventions 🐞💉
 
+Implemented feature for promoting sustainable tourism practices 🌍✈️
+
