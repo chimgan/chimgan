@@ -906,3 +906,5 @@ Introduced explainable AI concepts in model predictions 🧐
 
 Engineered a model for sentiment analysis in customer reviews 💬
 
+Implemented a collaborative filtering algorithm for movie recommendations 🎥
+
