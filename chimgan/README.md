@@ -904,3 +904,5 @@ Used recurrent neural networks for time series analysis ⌛
 
 Introduced explainable AI concepts in model predictions 🧐
 
+Engineered a model for sentiment analysis in customer reviews 💬
+
