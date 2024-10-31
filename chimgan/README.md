@@ -910,3 +910,5 @@ Implemented a collaborative filtering algorithm for movie recommendations 🎥
 
 Integrated AI in smart home automation 🏠
 
+Developed a chatbot with sentiment analysis capabilities 💬🧠
+
