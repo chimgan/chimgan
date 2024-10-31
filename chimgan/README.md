@@ -908,3 +908,5 @@ Engineered a model for sentiment analysis in customer reviews 💬
 
 Implemented a collaborative filtering algorithm for movie recommendations 🎥
 
+Integrated AI in smart home automation 🏠
+
