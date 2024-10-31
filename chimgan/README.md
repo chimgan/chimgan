@@ -912,3 +912,5 @@ Integrated AI in smart home automation 🏠
 
 Developed a chatbot with sentiment analysis capabilities 💬🧠
 
+Fine-tuned model hyperparameters with Bayesian optimization 📊
+
