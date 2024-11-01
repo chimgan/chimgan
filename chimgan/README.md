@@ -916,3 +916,5 @@ Fine-tuned model hyperparameters with Bayesian optimization 📊
 
 Leveraged AI for personalized shopping recommendations 🛍️
 
+Enabled AI-driven content recommendation in news platforms 📰
+
