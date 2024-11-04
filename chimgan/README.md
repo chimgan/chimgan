@@ -928,3 +928,5 @@ Applied AI for early disease diagnosis in medical imaging 🩺
 
 Developed a deep learning model for autonomous navigation 🧭
 
+Utilized AI in energy consumption forecasting 🌞
+
