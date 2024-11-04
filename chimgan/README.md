@@ -926,3 +926,5 @@ Optimized model training with parallel processing 🔄
 
 Applied AI for early disease diagnosis in medical imaging 🩺
 
+Developed a deep learning model for autonomous navigation 🧭
+
