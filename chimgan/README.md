@@ -882,3 +882,5 @@ Enhanced AI's empathy to support inclusive urban design 🏙️💙
 
 Refactored code to ensure fair distribution of resources in healthcare 🏥⚖️
 
+Deployed model to predict and prevent zoonotic disease outbreaks 🐒🚫
+
