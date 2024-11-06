@@ -912,3 +912,5 @@ Making data-driven decisions based on insights 📈
 
 Implementing state-of-the-art algorithms 🤯
 
+Collaborating with cross-functional teams for synergy 🤝
+
