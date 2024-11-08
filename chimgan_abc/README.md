@@ -922,3 +922,5 @@ Reinventing the future with AI innovation 🌌
 
 Building AI that predicts the unpredictable 🌀
 
+Augmenting human capabilities with machine learning 🧑‍💻🤖
+
