@@ -938,3 +938,5 @@ Trained a model to predict stock market trends 📈
 
 Integrated AI in recommendation systems for streaming services 🎬
 
+Developed a model for predicting customer churn in telecom industry 📞
+
