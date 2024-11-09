@@ -942,3 +942,5 @@ Developed a model for predicting customer churn in telecom industry 📞
 
 Deployed AI-powered chatbot for customer support 💬🤖
 
+Implemented a machine learning algorithm for personalized news recommendations 📰
+
