@@ -924,3 +924,5 @@ Building AI that predicts the unpredictable 🌀
 
 Augmenting human capabilities with machine learning 🧑‍💻🤖
 
+Creating AI art that pushes boundaries 🎨
+
