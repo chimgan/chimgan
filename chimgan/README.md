@@ -892,3 +892,5 @@ Optimized AI to support climate change adaptation in vulnerable communities 🌍
 
 Improved accuracy of disaster response coordination mechanisms 🚨🧩
 
+Added support for ethical sourcing practices in supply chains 🔄🌍
+
