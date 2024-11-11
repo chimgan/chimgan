@@ -928,3 +928,5 @@ Creating AI art that pushes boundaries 🎨
 
 Transforming data into actionable insights 📊➡️💡
 
+Ensuring AI ethics and fairness in all decisions 🤖🕊️
+
