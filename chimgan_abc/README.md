@@ -930,3 +930,5 @@ Transforming data into actionable insights 📊➡️💡
 
 Ensuring AI ethics and fairness in all decisions 🤖🕊️
 
+Pioneering AI solutions for a sustainable future 🌱
+
