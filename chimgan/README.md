@@ -898,3 +898,5 @@ Enhanced AI's understanding of equity in digital accessibility 🌐💻
 
 Refactored code for effective disaster preparedness and response 🚨🔧
 
+Deployed model to predict and prevent air pollution hotspots 🌬️🚫
+
