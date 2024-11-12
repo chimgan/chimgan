@@ -958,3 +958,5 @@ Developed a recommendation system with hybrid collaborative filtering 🤝
 
 Trained a generative adversarial network for image super-resolution 🖼️
 
+Implemented a reinforcement learning algorithm for robotic control 🤖
+
