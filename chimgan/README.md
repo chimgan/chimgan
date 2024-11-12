@@ -956,3 +956,5 @@ Enabled AI-driven personalization in e-commerce platforms 🛒
 
 Developed a recommendation system with hybrid collaborative filtering 🤝
 
+Trained a generative adversarial network for image super-resolution 🖼️
+
