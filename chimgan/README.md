@@ -960,3 +960,5 @@ Trained a generative adversarial network for image super-resolution 🖼️
 
 Implemented a reinforcement learning algorithm for robotic control 🤖
 
+Engineered a model for predicting customer lifetime value 📊
+
