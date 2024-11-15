@@ -962,3 +962,5 @@ Implemented a reinforcement learning algorithm for robotic control 🤖
 
 Engineered a model for predicting customer lifetime value 📊
 
+Utilized AI for facial emotion recognition in augmented reality applications 😃🕶️
+
