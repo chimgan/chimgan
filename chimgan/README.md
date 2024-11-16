@@ -914,3 +914,5 @@ Enhanced AI's ability to assist in addressing systemic inequalities 🔄🌏
 
 Refactored code to ensure data privacy and security 🔒🔍
 
+Deployed model to prevent deforestation and habitat loss 🌳🚫
+
