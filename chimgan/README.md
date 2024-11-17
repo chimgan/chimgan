@@ -918,3 +918,5 @@ Deployed model to prevent deforestation and habitat loss 🌳🚫
 
 Fixed bug causing biases in climate change adaptation strategies 🐞🌍
 
+Implemented feature for sustainable agriculture and food systems 🌾🍴
+
