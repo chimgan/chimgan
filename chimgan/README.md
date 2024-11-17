@@ -964,3 +964,5 @@ Engineered a model for predicting customer lifetime value 📊
 
 Utilized AI for facial emotion recognition in augmented reality applications 😃🕶️
 
+Incorporated AI in autonomous drone navigation 🚁
+
