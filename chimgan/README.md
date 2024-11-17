@@ -916,3 +916,5 @@ Refactored code to ensure data privacy and security 🔒🔍
 
 Deployed model to prevent deforestation and habitat loss 🌳🚫
 
+Fixed bug causing biases in climate change adaptation strategies 🐞🌍
+
