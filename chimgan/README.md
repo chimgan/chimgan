@@ -968,3 +968,5 @@ Incorporated AI in autonomous drone navigation 🚁
 
 Developed a system for predicting equipment failures with AI 🛠️
 
+Enabled AI for predictive maintenance in industrial machinery ⚙️
+
