@@ -970,3 +970,5 @@ Developed a system for predicting equipment failures with AI 🛠️
 
 Enabled AI for predictive maintenance in industrial machinery ⚙️
 
+Integrated chatbot functionality for conversational customer interactions 💬🤖
+
