@@ -966,3 +966,5 @@ Utilized AI for facial emotion recognition in augmented reality applications �
 
 Incorporated AI in autonomous drone navigation 🚁
 
+Developed a system for predicting equipment failures with AI 🛠️
+
