@@ -6,3 +6,5 @@ Enhanced data preprocessing pipeline for improved accuracy 📊
 
 Refactored codebase for better readability and maintainability 🛠️
 
+Fixed bug causing unintended side effects 🐞
+
