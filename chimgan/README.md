@@ -972,3 +972,5 @@ Enabled AI for predictive maintenance in industrial machinery ⚙️
 
 Integrated chatbot functionality for conversational customer interactions 💬🤖
 
+Built a recommendation system based on content-based filtering 📚
+
