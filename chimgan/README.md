@@ -974,3 +974,5 @@ Integrated chatbot functionality for conversational customer interactions 💬�
 
 Built a recommendation system based on content-based filtering 📚
 
+Trained a neural network to generate realistic text 📝
+
