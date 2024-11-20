@@ -10,3 +10,5 @@ Fixed bug causing unintended side effects 🐞
 
 Added new feature to enhance user experience 🚀
 
+Improved model performance through hyperparameter tuning 🔄
+
