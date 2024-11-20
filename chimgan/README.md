@@ -12,3 +12,5 @@ Added new feature to enhance user experience 🚀
 
 Improved model performance through hyperparameter tuning 🔄
 
+Resolved merge conflict with grace and ease 🤝
+
