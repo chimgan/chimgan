@@ -6,7 +6,7 @@ Hi there! 👋 I'm **Vladyslav Kovtunov**, a **Senior Software Engineer** with *
 
 ### 🌟 About Me
 - 🧠 **Master's in Artificial Intelligence** from the Department of AI.
-- 🌍 Originally from **Kharkiv, Ukraine**; currently living in **Netherland, Amsterdam**, **Mersin, Turkey**.
+- 🌍 Originally hailing from the vibrant city of **Kharkiv, Ukraine**, I've embraced a journey of exploration and growth, currently calling **Amsterdam, Netherlands**, and **Mersin, Turkey** my homes.
 - 🖥 Passionate about **clean code**, **AI integration**, and **automation**.
 - 🤝 I enjoy sharing knowledge and collaborating with like-minded professionals.
 - 🏋️‍♂️ When I’m not coding, I’m either playing chess, working out, or traveling.
